@@ -1,0 +1,16 @@
+{
+  "name": "mpeg-atoms",
+  "version": "1.0.0",
+  "description": "Understanding binary through UTF-8 encoded text, Integers and Buffers with Node.js",
+  "main": "index.ts",
+  "keywords": [ "binary", "utf-8", "integer", "buffer" ],
+  "scripts": {
+    "start": "npx tsx index.ts",
+    "play": "npx tsx watch index.ts"
+  },
+  "author": "Bence Kormos <kormos.bence@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.5"
+  }
+}
